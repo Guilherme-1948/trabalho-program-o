@@ -6,16 +6,16 @@
 @import url("styles/rodape.css");
 
 :root{
-    --cor-de-fundo: #bb55ff;
-    --branco: #725858;
-    --laranja:#fdfdfd;
-    --azul-degrade: linear-gradient(97.54deg, #a80000 35.49%, #8300fd 165.37%);
+    --cor-de-fundo: #210e79;
+    --branco: #441111;
+    --laranja:#276772;
+    --azul-degrade: linear-gradient(97.54deg, #160d0d 35.49%, #a28ecf 165.37%);
     --fonte-principal:"poppins";
-    --azul:#ff67eb;
+    --azul:#6e1eb9;
     --fonte-segundaria:"josefin sans";
-    --preto:#000000;
-    --cinza:#474646;
-    --cinza-claro:#858585;
+    --preto:#3889d4;
+    --cinza:#054643;
+    --cinza-claro:#66033d;
 
 
 }
